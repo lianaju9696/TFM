@@ -1,1 +1,2 @@
 Este repositorio contiene la información de las horas extras y recargos generados en la compañía en los años 2013-2021
+Para el análisis por favor hacer caso omiso a este archivo
